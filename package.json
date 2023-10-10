@@ -1,24 +1,24 @@
 {
-  "name": "palletes",
+  "name": "my-palettes",
   "version": "0.0.1",
-  "description": "Predefined color palettes for your projects",
+  "description": "My Palettes is an open source library for color palettes personalized",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeMorini/palletes.git"
+    "url": "git+https://github.com/JeMorini/palettes.git"
   },
   "keywords": [
     "colors",
-    "palletes",
-    "color-pallete"
+    "palettes",
+    "color-palettes"
   ],
   "author": "jemorini <jemorini26@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JeMorini/palletes/issues"
+    "url": "https://github.com/JeMorini/palettes/issues"
   },
-  "homepage": "https://github.com/JeMorini/palletes#readme"
+  "homepage": "https://github.com/JeMorini/palettes#readme"
 }
