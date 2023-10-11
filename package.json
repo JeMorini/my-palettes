@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeMorini/palettes.git"
+    "url": "git+https://github.com/JeMorini/my-palettes.git"
   },
   "keywords": [
     "colors",
@@ -18,7 +18,7 @@
   "author": "jemorini <jemorini26@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JeMorini/palettes/issues"
+    "url": "https://github.com/JeMorini/my-palettes/issues"
   },
-  "homepage": "https://github.com/JeMorini/palettes#readme"
+  "homepage": "https://github.com/JeMorini/my-palettes#readme"
 }
