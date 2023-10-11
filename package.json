@@ -1,6 +1,6 @@
 {
   "name": "my-palettes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "My Palettes is an open source library for color palettes personalized",
   "main": "src/index.js",
   "scripts": {
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/JeMorini/my-palettes/issues"
   },
-  "homepage": "https://github.com/JeMorini/my-palettes#readme"
+  "homepage": "https://my-palettes-docs.vercel.app"
 }
