@@ -1,4 +1,4 @@
-# Palettes
+# My Palettes
 
 My Palettes is an open source library for color palettes personalized
 
