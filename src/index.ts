@@ -1,4 +1,6 @@
-export const palettes = {
+import { ColorPalette } from "./interface";
+
+export const palettes: ColorPalette = {
   neutral: {
     white: "#fff",
     black: "#000",
