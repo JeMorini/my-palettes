@@ -1,6 +1,6 @@
 {
   "name": "my-palettes",
-  "version": "0.0.5",
+  "version": "0.0.5-test",
   "description": "My Palettes is an open source library for color palettes personalized",
   "main": "src/index.js",
   "scripts": {
